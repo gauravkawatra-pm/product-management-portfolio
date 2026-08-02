@@ -15,4 +15,4 @@ Independent strategic analysis covering:
 • Strategic recommendations
 • Success metrics
 
-→ View Full Case Study
+→ [View Full Case Study](canva-product-strategy/README.md)
