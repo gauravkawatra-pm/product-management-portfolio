@@ -36,7 +36,7 @@ deeper strategic capability and potential competitive advantage.
 
 ## Full Case Study
 
-📄 See: **Canva Product Strategy Analysis PDF**
+📄 See: **Canva_Strategy Evaluation_For Investment word document**
 
 ---
 
