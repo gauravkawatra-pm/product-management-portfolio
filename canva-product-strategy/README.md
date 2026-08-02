@@ -6,7 +6,7 @@ A business strategy case study evaluating Canva's competitive position, growth s
 
 |File|Description|
 |-|-|
-|`Canva\_Investment\_Memo.docx`|Full investment evaluation memo: market sizing (TAM/SAM/SOM), Five Forces analysis, SWOT, competitive deep-dive vs. Adobe/Figma/AI-native entrants, strategic options, recommendation, risk register, and a 90-day due-diligence plan|
+|`Independent Product Strategy Analysis — Canva.pdf`|Full investment evaluation memo: market sizing (TAM/SAM/SOM), Five Forces analysis, SWOT, competitive deep-dive vs. Adobe/Figma/AI-native entrants, strategic options, recommendation, risk register, and a 90-day due-diligence plan|
 
 ## 🎯 Purpose
 
