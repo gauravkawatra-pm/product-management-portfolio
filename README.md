@@ -1,7 +1,6 @@
 # Gaurav Kawatra | Product Management Portfolio
 
-Product Strategy • Product Discovery •  
-Roadmapping • Prioritization • Data & Metrics
+Product Strategy • Product Discovery • Roadmapping • Prioritization • Data & Metrics
 
 ## Featured Case Studies
 
